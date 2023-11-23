@@ -1,0 +1,90 @@
+
+body
+{
+    background-color: rgb(100, 188, 247);
+    background-image: url(2560x1600-581936-Lake-Starry.jpg);
+    background-size: cover;
+}
+
+#dm1
+{
+    background-color: rgb(35, 136, 204);
+}
+
+#dm2
+{
+    background-color: rgb(35, 136, 204);
+}
+
+#sub1
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#sub2
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#sub3
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#sub4
+{
+    background-color: rgb(61, 121, 252);
+}
+
+
+#sub5
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#sub6
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#sub7
+{
+    background-color: rgb(61, 121, 252);
+}
+
+#q1-10:hover, #q1-10:visited, #q1-10:active
+{
+    background-color: skyblue;
+}
+
+#q11-20:hover, #q11-20:visited, #q11-20:active
+{
+    background-color: skyblue;
+}
+
+#q21-30:hover, #q21-30:visited, #q21-30:active
+{
+    background-color: skyblue;
+}
+
+#q31-40:hover, #q31-40:visited, #q31-40:active
+{
+    background-color: skyblue;
+}
+
+#q41-47:hover, #q41-47:visited, #q41-47:active
+{
+    background-color: skyblue;
+}
+
+#q:hover, #q:active, #q:visited
+{
+    background-color: skyblue;
+}
+
+#d:hover, #d:visited, #d:active
+{
+    background-color: skyblue;
+}
+
+

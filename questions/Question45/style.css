@@ -1,0 +1,42 @@
+
+#question
+{
+    margin: 37%;
+    margin-top: 3%;
+    background-color: cadetblue;
+}
+
+.card
+{
+    width: auto;
+    max-width: 18rem;
+    margin: auto;
+    background-color: cornflowerblue;
+}
+
+#questioni
+{
+    margin: 38%;
+    margin-top: 3%;
+    background-color: cadetblue;
+}
+
+#inp
+{
+    background-color: cornflowerblue;
+}
+
+#comp
+{
+    background-color: cornflowerblue;
+}
+
+body
+{
+    background-color: lightblue;
+}
+
+#navbutton
+{
+    background-color: rgb(82, 121, 196);
+}

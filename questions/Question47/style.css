@@ -1,0 +1,36 @@
+
+#question
+{
+    background-color: cornflowerblue;
+    margin: 29%;
+    margin-top: 3%;
+}
+
+.card
+{
+    margin: auto;
+    width: auto;
+    background-color: rgb(13, 172, 172);
+}
+
+#questioni
+{
+    margin: 33%;
+    margin-top: 3%;
+    background-color: cornflowerblue;
+}
+
+#comp
+{
+    background-color: darkcyan;
+}
+
+body
+{
+    background-color: rgb(27, 221, 221);
+}
+
+#navbutton
+{
+    background-color: darkcyan;
+}

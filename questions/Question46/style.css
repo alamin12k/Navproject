@@ -1,0 +1,37 @@
+
+#question
+{
+    margin: 37%;
+    margin-top: 3%;
+    background-color: darkseagreen;
+}
+
+.card
+{
+    width: auto;
+    max-width: 18rem;
+    margin: auto;
+    background-color: forestgreen;
+}
+
+#questioni
+{
+    margin: 38%;
+    margin-top: 3%;
+    background-color: darkseagreen;
+}
+
+#comp
+{
+    background-color: forestgreen;
+}
+
+body
+{
+    background-color: rgb(75, 235, 75);
+}
+
+#navbutton
+{
+    background-color: forestgreen;
+}
