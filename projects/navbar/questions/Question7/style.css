@@ -1,0 +1,38 @@
+
+#question
+{
+    margin: 20%;
+    margin-top: 10%;
+    color: navy;
+    
+}
+
+.card
+{
+    background-color: aqua;
+}
+.card-body
+{
+    color: blue;
+    
+}
+
+#forms
+{
+    margin: 1%;
+    font-size: large;
+}
+
+#collect
+{
+    margin: 40%;
+    margin-top: 5%;
+    /* margin-right: 80%; */
+    position: absolute;
+}
+
+body
+{
+    background-color: teal;
+}
+

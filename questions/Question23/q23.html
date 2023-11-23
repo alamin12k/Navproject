@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/bootstap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Question 23</title>
+</head>
+<body>
+    <div class="container mt-3">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+            <a class="nav-link bg-primary active text-white" id="navbutton" href="http://localhost/navproject/navproject.html"><i class="fa fa-home"></i>Home</a>
+            </li>
+        </ul>
+    </div>
+    <div class="alert alert-primary" role="alert" id="questioni">
+        <form action="Question23.php" method="post">
+
+            <label for="">Write a program to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay by the customer. The charges are as follow :<br>
+                Cost of Energy (Unit) in kw = N22.5. <br>
+                *To be Entered from kyboard* <br>
+                -Total Energy Consumed <br>
+                -To amount To be paid <br>
+                -Outstanding Balance.
+            </label><br/><br/>
+
+            <label class="form-label" for="">Customer id. </label><input class="form-control" type="text" name="id" id="inp"><br/>
+            <label class="form-label" for="">Name </label><input class="form-control" type="text" name="name" id="inp"><br/>
+            <label class="form-label" for="">Unit Consumed </label><input class="form-control" type="number" name="unit" id="inp"><br/>
+
+            <input class="form-control" type="submit" value="Compute" name="compute" id="comp">
+
+
+        </form>
+    </div>
+</body>
+</html>

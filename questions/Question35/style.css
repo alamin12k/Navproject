@@ -1,0 +1,37 @@
+
+#question
+{
+    margin: 33%;
+    margin-top: 5%;
+}
+
+.card
+{
+    width: auto;
+    max-width: 18rem;
+    margin: auto;
+    background-color: rgb(76, 9, 139);
+    color: azure;
+}
+
+#questioni
+{
+    margin: 39%;
+    margin-top: 5%;
+}
+
+#comp
+{
+    background-color: rgb(76, 9, 139);
+    color: azure;
+}
+
+body
+{
+    background-color: rgb(160, 71, 243);
+}
+
+#navbutton
+{
+    background-color: rgb(61, 6, 112);
+}

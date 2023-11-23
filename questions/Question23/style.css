@@ -1,0 +1,45 @@
+
+#question
+{
+    margin: 25%;
+    margin-top: 3%;
+}
+
+.card-body
+{
+    background-color: rgb(68, 101, 248);
+}
+
+.card
+{
+    width: auto;
+    /* max-width: 20rem; */
+    margin: auto;
+}
+
+#questioni
+{
+    margin: 30%;
+    margin-top: 3%;
+}
+
+body
+{
+    background-color: rgb(63, 177, 243);
+}
+
+#comp
+{
+    background-color: rgb(15, 114, 243);
+}
+
+#inp
+{
+    background-color: rgb(15, 114, 243);
+}
+
+#navbutton
+{
+    background-color: rgb(15, 114, 243);
+    color: thistle;
+}

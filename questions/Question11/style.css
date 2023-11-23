@@ -1,0 +1,53 @@
+
+#question
+{
+    margin: 35%;
+    margin-top: 3%;
+}
+
+.card
+{
+    margin: auto;
+}
+
+.card-body
+{
+    background-color: rgb(26, 139, 139);
+}
+
+#questioni
+{
+    margin: 37%;
+    margin-top: 3%;
+    font-size: large;
+}
+
+#temp
+{
+    background-color: rgb(73, 141, 141);
+}
+
+body
+{
+    background-color: rgb(67, 196, 196);
+}
+
+#in
+{
+    background-color: rgb(26, 139, 139);
+}
+
+#comp
+{
+    background-color: rgb(67, 196, 196);
+}
+
+#navbutton
+{
+    background-color: rgb(26, 139, 139);
+}
+
+#x:hover, #x:active, #x:visited
+{
+    background-color: rgb(26, 139, 139);
+}

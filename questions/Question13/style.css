@@ -1,0 +1,39 @@
+
+#question
+{
+    margin: 36%;
+    margin-top: 3%;
+}
+
+.card
+{
+    margin: auto;
+    width: auto;
+    max-width: 18rem;
+}
+
+.card-body
+{
+    background-color: cadetblue;
+}
+
+#questioni
+{
+    margin: 39%;
+    margin-top: 3%;
+}
+
+#in
+{
+    background-color: rgb(119, 198, 201);
+}
+
+#comp
+{
+    background-color: rgb(79, 155, 158);
+}
+
+body
+{
+    background-color: rgb(29, 189, 135);
+}

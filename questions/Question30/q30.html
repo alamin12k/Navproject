@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/bootstap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Question 30</title>
+</head>
+<body>
+    <div class="container mt-3">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+            <a class="nav-link active text-white" id="navbutton" href="http://localhost/navproject/navproject.html"><i class="fa fa-home"></i>Home</a>
+            </li>
+        </ul>
+    </div>
+    <div class="alert alert-secondary" role="alert" id="questioni">
+        <form action="Question30.php" method="post">
+
+            <label for=""><h4> Write a program to display arithmetic operations using switch-case statement.</h4></label><br/><br/>
+
+            <label class="form-label" for=""><h5>1st number </h5></label><input class="form-control" type="number" name="num1" id="inp"><br/>
+            <label class="form-label" for=""><h5>2nd Number</h5> </label><input class="form-control" type="number" name="num2" id="inp"><br/>
+
+            <label class="form-label" for=""><h5> Choose your operator </h5></label>
+            <select class="form-select" name="arithmetic" id="inp">
+
+                <option value="+">+ </option>
+                <option value="-">- </option>
+                <option value="*">* </option>
+                <option value="/">/ </option>
+            </select><br/><br/>
+
+            <input class="form-control" type="submit" value="Compute" name="compute" id="comp">
+        </form>
+    </div>
+</body>
+</html>

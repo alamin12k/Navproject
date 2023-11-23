@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/bootstap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Question 5</title>
+</head>
+<body>
+    <div class="container mt-3">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+            <a class="nav-link active bg-success" id="navbutton" href="http://localhost/navproject/navproject.html"><i class="fa fa-home"></i>Home</a>
+            </li>
+        </ul>
+    </div>
+    <div class="alert alert-success" role="alert" id="questioni">
+        <form action="Question5.php" method="post">
+            <label for="">5. Write a program to enter marks of a student in 5 subjects & calculate the percentage.</label>
+            <br/><br/>
+
+            <label class="form-label" for="">Subject 1 </label><input class="form-control" type="number" min="0" max="100" name="s1" id="inp"><br/>
+            <label class="form-label" for="">Subject 2 </label><input class="form-control" type="number" min="0" max="100" name="s2" id="inp"><br/>
+            <label class="form-label" for="">Subject 3 </label><input class="form-control" type="number" min="0" max="100" name="s3" id="inp"><br/>
+            <label class="form-label" for="">Subject 4 </label><input class="form-control" type="number" min="0" max="100" name="s4" id="inp"><br/>
+            <label class="form-label" for="">Subject 5 </label><input class="form-control" type="number" min="0" max="100" name="s5" id="inp"><br/>
+
+            <input class="form-control" type="submit" value="Compute" name="compute" id="comp">
+        </form>
+    </div>
+</body>
+</html>

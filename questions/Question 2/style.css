@@ -1,0 +1,36 @@
+
+#question
+{
+    margin: 35%;
+    margin-top: 3%;
+}
+
+#questioni
+{
+    margin: 39%;
+    margin-top: 3%;
+}
+
+#comp
+{
+    background-color: aquamarine;
+}
+
+#inp
+{
+    background-color: aquamarine;
+}
+
+body
+{
+    background-color: rgb(23, 172, 152);
+}
+
+.card
+{
+    background-color: aquamarine;
+    width: auto;
+    max-width: 18rem;
+    margin: auto;
+}
+

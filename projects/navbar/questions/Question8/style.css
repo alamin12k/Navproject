@@ -1,0 +1,39 @@
+
+#question
+{
+    margin: 30%;
+    margin-top: 10%;
+}
+
+.card
+{
+    margin-left: 25%;
+    background-color: blueviolet;
+}
+
+.card-body
+{
+    margin-left: 15%;
+    color: rgb(3, 3, 94);
+}
+
+#halert
+{
+    margin: 30%;
+    margin-top: 10%;
+    margin-right: 32%;
+    margin-left: 32%;
+    font-size: large;
+    background-color: blueviolet;
+    
+}
+
+#compute
+{
+    background-color: darkslateblue;
+}
+
+body
+{
+    background-color: darkslateblue;
+}

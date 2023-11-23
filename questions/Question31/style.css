@@ -1,0 +1,38 @@
+
+#question
+{
+    margin: 30%;
+    margin-top: 3%;
+}
+
+#questioni
+{
+    margin: 40%;
+    margin-top: 3%;
+}
+
+#in
+{
+    background-color: rgb(49, 247, 164);
+}
+
+body
+{
+    background-color: rgb(7, 155, 123);
+}
+
+#sub
+{
+    background-color: rgb(0, 202, 118);
+}
+
+#in2
+{
+    background-color: rgb(49, 247, 164);
+}
+
+.card
+{
+    background-color: rgb(49, 247, 164);
+    margin: auto;
+}
